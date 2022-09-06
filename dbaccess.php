@@ -35,6 +35,7 @@ $password = 'xiaowei';
 <title>test page for database access</title>
 </head>
 <body >
+Add comment by Mamoru Ito<br><br>
 Last Access Time<br><br>
 <?php foreach ($rec as $a):?>
 <?=escape1($a)?><br>
